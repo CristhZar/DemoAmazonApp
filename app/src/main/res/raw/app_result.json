@@ -1,0 +1,505 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "app50",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/1.webp",
+      "categories": ["game", "puzzle"],
+      "rating": 1.0
+    },
+    {
+      "id": "2",
+      "name": "app2",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 19.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/2.webp",
+      "categories": ["communication", "social"],
+      "rating": 4.0
+    },
+    {
+      "id": "3",
+      "name": "app3",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/3.webp",
+      "categories": ["health", "medicine"],
+      "rating": 5.0
+    },
+    {
+      "id": "4",
+      "name": "app4",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 19.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/4.webp",
+      "categories": ["network"],
+      "rating": 2.0
+    },
+    {
+      "id": "5",
+      "name": "app5",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/5.webp",
+      "categories": ["game", "action"],
+      "rating": 1.0
+    },
+    {
+      "id": "6",
+      "name": "app6",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/6.webp",
+      "categories": ["game", "strategy"],
+      "rating": 4.0
+    },
+    {
+      "id": "7",
+      "name": "app7",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 19.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/7.webp",
+      "categories": ["health", "social"],
+      "rating": 5.0
+    },
+    {
+      "id": "8",
+      "name": "app8",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/8.webp",
+      "categories": ["communication"],
+      "rating": 1.0
+    },
+    {
+      "id": "9",
+      "name": "app9",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/9.webp",
+      "categories": ["game", "driving"],
+      "rating": 3.0
+    },
+    {
+      "id": "10",
+      "name": "app10",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/10.webp",
+      "categories": ["chat", "technology"],
+      "rating": 4.0
+    },
+    {
+      "id": "11",
+      "name": "app11",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/11.webp",
+      "categories": ["chat", "social"],
+      "rating": 2.0
+    },
+    {
+      "id": "12",
+      "name": "app12",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/12.webp",
+      "categories": ["game", "health"],
+      "rating": 0.0
+    },
+    {
+      "id": "13",
+      "name": "app13",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/13.webp",
+      "categories": ["social", "puzzle", "game"],
+      "rating": 1.0
+    },
+    {
+      "id": "14",
+      "name": "app14",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 19.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/14.webp",
+      "categories": ["chat", "strategy"],
+      "rating": 5.0
+    },
+    {
+      "id": "15",
+      "name": "app15",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/15.webp",
+      "categories": ["game", "puzzle", "lootbox"],
+      "rating": 0.0
+    },
+    {
+      "id": "16",
+      "name": "app16",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/16.webp",
+      "categories": ["health"],
+      "rating": 1.0
+    },
+    {
+      "id": "17",
+      "name": "app17",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/17.webp",
+      "categories": ["game", "rpg"],
+      "rating": 5.0
+    },
+    {
+      "id": "18",
+      "name": "app18",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/18.webp",
+      "categories": ["health", "medicine"],
+"rating": 5.0
+    },
+    {
+      "id": "19",
+      "name": "app19",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/19.webp",
+      "categories": ["game", "driving"],
+"rating": 3.0
+    },
+    {
+      "id": "20",
+      "name": "app20",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/20.webp",
+      "categories": ["game", "strategy"],
+"rating": 4.0
+    },
+    {
+      "id": "21",
+      "name": "app21",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/21.webp",
+      "categories": ["health", "medicine"],
+"rating": 5.0
+    },
+    {
+      "id": "22",
+      "name": "app22",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/22.webp",
+      "categories": ["game", "strategy"],
+"rating": 4.0
+    },
+    {
+      "id": "23",
+      "name": "app23",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/23.webp",
+      "categories": ["chat", "technology"],
+"rating": 4.0
+    },
+    {
+      "id": "24",
+      "name": "app24",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/24.webp",
+      "categories": ["chat", "technology"],
+"rating": 4.0
+    },
+    {
+      "id": "25",
+      "name": "app25",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/25.webp",
+      "categories": ["health", "medicine"],
+"rating": 5.0
+    },
+    {
+      "id": "26",
+      "name": "app26",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/26.webp",
+      "categories": ["game", "driving"],
+"rating": 3.0
+    },
+    {
+      "id": "27",
+      "name": "app27",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/27.webp",
+      "categories": ["social", "puzzle", "game"],
+"rating": 1.0
+    },
+    {
+      "id": "28",
+      "name": "app28",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/28.webp",
+      "categories": ["game", "rpg"],
+      "rating": 5.0
+    },
+    {
+      "id": "29",
+      "name": "app29",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/29.webp",
+      "categories": ["game", "driving"],
+"rating": 3.0
+    },
+    {
+      "id": "30",
+      "name": "app30",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/30.webp",
+      "categories": ["social", "puzzle", "game"],
+"rating": 1.0
+    },
+    {
+      "id": "31",
+      "name": "app31",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/31.webp",
+      "categories": ["game", "strategy"],
+"rating": 4.0
+    },
+    {
+      "id": "32",
+      "name": "app32",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/32.webp",
+      "categories": ["social", "puzzle", "game"],
+"rating": 1.0
+    },
+    {
+      "id": "33",
+      "name": "app33",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/33.webp",
+      "categories": ["game", "rpg"],
+      "rating": 5.0
+    },
+    {
+      "id": "34",
+      "name": "app34",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/34.webp",
+      "categories": ["communication", "social"],
+"rating": 3.0
+    },
+    {
+      "id": "35",
+      "name": "app35",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/35.webp",
+      "categories": ["game", "strategy"],
+"rating": 4.0
+    },
+    {
+      "id": "36",
+      "name": "app36",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/36.webp",
+      "categories": ["health", "medicine"],
+"rating": 5.0
+    },
+    {
+      "id": "37",
+      "name": "app37",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/37.webp",
+      "categories": ["chat", "technology"],
+"rating": 4.0
+    },
+    {
+      "id": "38",
+      "name": "app38",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/38.webp",
+      "categories": ["communication", "social"],
+"rating": 3.0
+    },
+    {
+      "id": "39",
+      "name": "app39",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/39.webp",
+      "categories": ["social", "puzzle", "game"],
+"rating": 1.0
+    },
+    {
+      "id": "40",
+      "name": "app40",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/40.webp",
+      "categories": ["social", "puzzle", "game"],
+"rating": 1.0
+    },
+    {
+      "id": "41",
+      "name": "app41",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/41.webp",
+      "categories": ["game", "driving"],
+"rating": 3.0
+    },
+    {
+      "id": "42",
+      "name": "app42",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/42.webp",
+      "categories": ["communication", "social"],
+"rating": 3.0
+    },
+    {
+      "id": "43",
+      "name": "app43",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/43.webp",
+      "categories": ["game", "rpg"],
+      "rating": 5.0
+    },
+    {
+      "id": "44",
+      "name": "app44",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/44.webp",
+      "categories": ["game", "driving"],
+"rating": 3.0
+    },
+    {
+      "id": "45",
+      "name": "app45",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 2.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/45.webp",
+      "categories": ["communication", "social"],
+"rating": 3.0
+    },
+    {
+      "id": "46",
+      "name": "app46",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/46.webp",
+      "categories": ["health", "medicine"],
+"rating": 5.0
+    },
+    {
+      "id": "47",
+      "name": "app47",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 9.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/47.webp",
+      "categories": ["game", "rpg"],
+      "rating": 5.0
+    },
+    {
+      "id": "48",
+      "name": "app48",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 4.99,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/48.webp",
+      "categories": ["game", "strategy"],
+"rating": 4.0
+    },
+    {
+      "id": "49",
+      "name": "app49",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/49.webp",
+      "categories": ["communication", "social"],
+"rating": 3.0
+    },
+    {
+      "id": "50",
+      "name": "app50",
+      "description": "Lorem ipsum",
+      "developer": "Lorem ipsum",
+      "price": 0.49,
+      "icon": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/50.webp",
+      "categories": ["chat", "technology"],
+"rating": 4.0
+    }
+  ],
+  "message": "50 results found"
+}

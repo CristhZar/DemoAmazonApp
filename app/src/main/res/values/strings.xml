@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">AmazonDemoStefanini</string>
+
+<!--  region Main Activity  -->
+    <string name="app_name">Amazon Demo Stefanini</string>
+    <string name="loading_text">Loading…</string>
+    <string name="no_result_text">No result found.</string>
+    <string name="money_format">$%s</string>
+    <string name="free_text">FREE</string>
+<!-- endregion -->
+
+<!--  region Details fragment  -->
+    <string name="close_button_text">Close</string>
+    <string name="install_button_text">Install</string>
+    <string name="installed_button_text">Installed</string>
+
+<!--  endregion  -->
 </resources>
